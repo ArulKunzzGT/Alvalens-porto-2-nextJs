@@ -6,9 +6,9 @@ import Button from "@/components/Button";
 import Image from "next/legacy/image";
 
 // images
-import ReactChat1 from "@/public/projects/trivia/trivia1.png";
-import ReactChat2 from "@/public/projects/trivia/trivia2.png";
-import ReactChat3 from "@/public/projects/trivia/trivia3.png";
+import ReactChat1 from "@/public/projects/spotify/spotify1.png";
+import ReactChat2 from "@/public/projects/spotify/spotify2.png";
+import ReactChat3 from "@/public/projects/spotify/spotify3.png";
 import ProjectAll from "@/public/img/projects.png";
 
 import Hr from "@/components/Hr";
@@ -176,26 +176,18 @@ export default function Page() {
 							type: "spring",
 						}}>
 						<h2 className="text-2xl font-bold tracking-wider mb-3">
-							Generative Trivia
+							Spotify Clone
 						</h2>
 						<p className="text-gray-600 text-justify title text-lg">
-							A generative trivia website built with Next.js,
-							Firebase, NextAuth, Google OAuth, and TypeScript.
-							Users can generate trivia questions for predefined
-							school subjects and answer them with a unique
-							interactive input style. The application supports
-							user authentication with Google and stores data in
-							Firestore. You can see the source code of this
-							project on my github account or preview the project
-							by clicking the button below.
+						SpotifyClone website made with Express.js, Node.js, HTML, and CSS. Users can play music on spotify and can create a queue. This application is free and can be accessed anywhere and anytime as long as you are connected to the internet. You can see the source code of this project on my github account or preview the project by clicking the button below.
 						</p>{" "}
 						<div className="mt-3">
 							<Button variation="primary">
-								<Link href="projects/trivia">More</Link>
+								<Link href="projects/spotify">More</Link>
 							</Button>
 							<Button variation="secondary">
 								<a
-									href="https://generative-trivia.vercel.app/"
+									href="https://spotify.stupide.my.id"
 									target="_blank"
 									rel="noopener noreferrer">
 									Preview

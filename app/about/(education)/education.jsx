@@ -2,7 +2,7 @@ import Image from "next/image";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faMedal } from "@fortawesome/free-solid-svg-icons";
 
-import Me4 from "@/public/img/me4.jpeg";
+import Me4 from "@/public/img/me4.jpg";
 
 export default function Education() {
 	return (
@@ -19,14 +19,14 @@ export default function Education() {
 				<div className="grid grid-cols-1 md:grid-cols-2 gap-4">
 					<div className="px-5">
 						<div className="font-medium text-lg">
-							2022 - Present
+							2023 - Present
 						</div>
 						<div>
 							<h2 className="font-semibold text-xl">
-								Universitas Negeri Malang
+								SMP Negeri 5 depok
 							</h2>
 							<h3 className="text-md font-normal mb-3">
-								S1 Teknik Informatika | Computer Science
+							Junior High School (2023 - 2026)
 							</h3>
 							<div className="grid gap-4 mb-4 grayscale hover:grayscale-0 transition-all ease duration-300">
 								<Image
@@ -44,24 +44,20 @@ export default function Education() {
 							</div>
 							<div className="flex items-center gap-2">
 								<p className="text-justify">
-									Aspiring to be a software engineer, I am
-									currently pursuing a bachelor&rsquo;s degree
-									in computer science at Universitas Negeri
-									Malang. Fascinated by the world of
-									technology, I am eager to learn and explore
-									new things in the field of computer science.
+									Aspiring to be a software engineer, I am currently studying at SMP Negeri 5 Depok. Fascinated by the world of technology, I want to learn and explore new things in the field of computer science.
 								</p>
 							</div>
-							{/* add gpa in a style */}
-							<div className="flex flex-wrap gap-2 mt-4 text-sm">
-								<div className="bg-gray-300 text-black px-2 py-1 rounded-2xl">
-									GPA: 3.9 out of 4
-								</div>
-							</div>
+
 						</div>
 					</div>
 					<div className="flex flex-col justify-start ">
-            <h2 className="font-semibold text-xl mt-7">
+					</div>
+				</div>
+			</div>
+		</section>
+	);
+}
+            {/* <h2 className="font-semibold text-xl mt-7">
               Achievements
             </h2>
             <p className="text-md font-normal mb-3 md:mb-12">
@@ -148,12 +144,6 @@ export default function Education() {
 								</p>
 							</div>
 						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-	);
-}
 
 function GraduationCapIcon(props) {
 	return (
@@ -173,4 +163,4 @@ function GraduationCapIcon(props) {
 			<path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5" />
 		</svg>
 	);
-}
+} */}

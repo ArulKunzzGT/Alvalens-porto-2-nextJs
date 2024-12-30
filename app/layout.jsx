@@ -8,38 +8,33 @@ import "./nprogress.css";
 import { Analytics } from "@vercel/analytics/react";
 
 export const metadata = {
-	title: "Alvalens | Portofolio",
+	title: "Syahrul | Portofolio",
 	description:
 		"My name is Alvalens, I'm a web developer and I'm passionate about it. I'm currently studying at Universitas Negeri Malang.",
-	author: "Alvalen Shafelbilyunazra",
-	siteUrl: "https://www.alvalens.my.id",
-	applicationName: "Alvalens",
+	author: "Syahrul Ramadan",
+	siteUrl: "https://stupide.my.id",
+	applicationName: "Syahrul",
 	keywords: [
-		"alvalens",
-		"alvalen",
-		"alvalen shafel",
-		"shafel",
-		"alvalen shafelbilyunazra",
-		"alvalen shafel bilyunazra",
-		"bloodfallen",
-		"alvalen porto",
-		"alvalen um",
+		"syahrul dian",
+		"syahrul dian ramadan",
+		"arul",
+		"arul ramadan",
 	],
 	openGraph: {
 		type: "website",
-		url: "https://www.alvalens.my.id",
-		title: "Alvalens | Portofolio",
-		site_name: "Alvalens | Portofolio",
-		description: "My name is Alvalens, This is my portofolio website.",
+		url: "https://stupide.my.id",
+		title: "Syahrul | Portofolio",
+		site_name: "Syahrul | Portofolio",
+		description: "My name is Syahrul, This is my portofolio website.",
 		width: 1200,
 		height: 630,
 		images: [
 			{
 				url: "/og-image-rev.png",
-				alt: "Alvalens Portofolio",
+				alt: "Arul Portofolio",
 			},
 		],
-		site_name: "Alvalens | Portofolio",
+		site_name: "Syahrul | Portofolio",
 	},
 };
 

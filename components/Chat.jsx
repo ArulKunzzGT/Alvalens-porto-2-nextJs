@@ -24,7 +24,7 @@ const Chat = () => {
 			document,
 			"script",
 			"https://app.intelliticks.com",
-			"u3cWw3sDpdKexqXCY_c",
+			"k8bvGmWnWoPvXtFNN_c",
 			{}
 		);
 	}, []);

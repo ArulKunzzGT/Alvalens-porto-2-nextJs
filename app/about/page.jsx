@@ -172,10 +172,10 @@ export default function Page() {
 							type: "spring",
 						}}>
 						<h2 className="text-2xl font-bold tracking-wider mb-3">
-							Alvalen Shafelbilyunazra
+							Syahrul Dian Ramadan
 						</h2>
 						<p className="text-gray-600 text-justify title text-lg">
-							Hey there, I&rsquo;m Alvalen Shafelbilyunazra, a
+							Hey there, I&rsquo;m Syahrul Dian Ramadan, a
 							<span className="text-black font-medium">
 								{" "}
 								tech enthusiast
@@ -185,11 +185,11 @@ export default function Page() {
 								{" "}
 								aspiring Web Developer.
 							</span>{" "}
-							Originating from Pasuruan, East Java, Indonesia,
+							Originating from Sleman, DIY, Indonesia
 							I&rsquo;m currently embarking on a fascinating
 							journey at{" "}
 							<span className="text-black font-medium">
-								Universitas Negeri Malang,
+								SMP Negeri 5 Depok
 							</span>{" "}
 							where I&rsquo;m pursuing my degree in{" "}
 							<span className="text-black font-medium">

@@ -10,6 +10,8 @@ export default function Tools() {
 				<span className="text-black font-bold">Git</span> |{" "}
 				<span className="text-black font-bold">Github</span> |{" "}
 				<span className="text-black font-medium">Figma</span> |{" "}
+				<span className="text-black font-medium">Alight Motion</span> |{" "}
+				<span className="text-black font-medium">CapCut</span> |{" "}
 				<span className="text-black font-medium">Adobe Photoshop</span>{" "}
 				|{" "}
 				<span className="text-black font-medium">
@@ -19,7 +21,7 @@ export default function Tools() {
 				<span className="text-black font-medium">
 					Adobe After Effect
 				</span>{" "}
-				|{" "}
+				{" "}
 			</p>
 		</>
 	);
