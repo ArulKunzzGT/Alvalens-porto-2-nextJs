@@ -175,7 +175,7 @@ export default function Page() {
 							Syahrul Dian Ramadan
 						</h2>
 						<p className="text-gray-600 text-justify title text-lg">
-							Hey there, I\'m Syahrul Dian Ramadan, a
+							Hey there, I&apos;m Syahrul Dian Ramadan, a
 							<span className="text-black font-medium">
 								{" "}
 								tech enthusiast
@@ -186,12 +186,12 @@ export default function Page() {
 								aspiring Web Developer.
 							</span>{" "}
 							Originating from Sleman, DIY, Indonesia
-							I\'m currently embarking on a fascinating
+							I&apos;m currently embarking on a fascinating
 							journey at{" "}
 							<span className="text-black font-medium">
 								SMP Negeri 5 Depok
 							</span>{" "}
-							where I\'m pursuing my degree in{" "}
+							where I&apos;m pursuing my degree in{" "}
 							<span className="text-black font-medium">
 								Informatics Engineering.
 							</span>{" "}
@@ -199,13 +199,13 @@ export default function Page() {
 							bounds. Beyond the world of coding, I find myself
 							deeply immersed in the realms of design, Game
 							Development, and the fascinating universe of AI. I
-							believe that in today\'s fast-paced digital
+							believe that in today&apos;s fast-paced digital
 							landscape, being a
 							<span className="text-black font-medium">
 								{" "}
 								lifelong learner
 							</span>{" "}
-							is not just a choice, but a necessity. Let\'s
+							is not just a choice, but a necessity. Let&apos;s
 							connect and explore this ever-evolving world of tech
 							together!
 						</p>
