@@ -84,7 +84,7 @@ const MyPage = () => {
 											delay: 0.4,
 											type: "spring",
 										}}>
-										Hi, Im Syarul Dian Ramadan, a grade 8 student at SMPN 5 Depok, currently residing in Yogyakarta. My passion for coding ignited in 7th grade and since then, I've honed my skills in JavaScript, React.Js, and Python. As a junior frontend developer with a focus on web development, I'm also keenly interested in UX/UI design, mobile development, and AI. Im dedicated to learning new things and always open to new opportunities.
+										Hi, Im Syarul Dian Ramadan, a grade 8 student at SMPN 5 Depok, currently residing in Yogyakarta. My passion for coding ignited in 7th grade and since then, Ive honed my skills in JavaScript, React.Js, and Python. As a junior frontend developer with a focus on web development, Im also keenly interested in UX/UI design, mobile development, and AI. Im dedicated to learning new things and always open to new opportunities.
 									</motion.p>
 									<motion.div
 										className="buttons flex flex-row justify-center items-center space-x-4 mt-10"
