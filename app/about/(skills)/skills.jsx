@@ -6,7 +6,7 @@ export default function Skills() {
 					Skills and Expertise
 				</h2>
 				<p className="text-muted-foreground max-w-[800px] mx-auto">
-					Explore some skills I&apos;m proficient in to deliver high-quality
+					Explore some skills \'m proficient in to deliver high-quality
 					solutions.
 				</p>
 			</div>

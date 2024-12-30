@@ -33,6 +33,7 @@
   },
   "devDependencies": {
     "@next/bundle-analyzer": "^13.4.19",
+    "next": "13.4.19",
     "cross-env": "^7.0.3"
   }
 }
